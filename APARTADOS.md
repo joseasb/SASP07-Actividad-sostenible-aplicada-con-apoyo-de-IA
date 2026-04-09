@@ -2,14 +2,14 @@
 
 El trabajo debe incluir:
 
-### Análisis de la actividad
+### Análisis de la actividad  JOSE
 
 * Descripción clara de la actividad elegida.
 * Contexto (personal, académico o profesional).
 
 ---
 
-### Identificación de impactos
+### Identificación de impactos  HUGO
 
 * ¿Qué problemas genera esta actividad?
 * ¿Qué impacto tiene (ambiental o social)?
@@ -17,22 +17,22 @@ El trabajo debe incluir:
 
 ---
 
-### Propuestas sostenibles
-
+### Propuestas sostenibles  JOSE
+  
 * ¿Qué mejoras propones?
 * ¿Cómo reducirías el impacto?
 * Deben ser **acciones reales y aplicables**.
 
 ---
 
-### Aplicación al ámbito profesional
+### Aplicación al ámbito profesional HUGO
 
 * ¿Qué harías como desarrollador o profesional TIC?
 * ¿Cómo aplicarías esto en tu trabajo futuro?
 
 ---
 
-### Uso de IA (obligatorio)
+### Uso de IA (obligatorio)  JOSE
 
 Debéis explicar:
 
@@ -44,7 +44,7 @@ Debéis explicar:
 
 ---
 
-### Reflexión final
+### Reflexión final  HUGO
 
 * Ventajas de usar IA.
 * Inconvenientes.
