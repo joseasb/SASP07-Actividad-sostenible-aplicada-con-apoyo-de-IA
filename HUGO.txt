@@ -1,0 +1,11 @@
+-- IDENTIFICACION DE IMPACTOS --
+
+- ¿Qué problemas genera esta actividad y qué impacto tiene?
+    - Gigantescas emisiones de CO2 : Un estudio publicado en Forbes sugiere que el chatbot produce más de 260,930 kilogramos de
+        al mes, lo que equivale a las emisiones de 260 vuelos entre Nueva York y Londres.   
+    - La nula sostenibilidad del proyecto : se estima que OpenAI registrará pérdidas operativas de aproximadamente 14.000 millones de dólares en 2026, alcanzar los 115.000 millones de dólares hacia finales de 2029.
+    Nos deja claro que su proyecto no es rentable por sí mismo, necesitando a inversores que lo único que hacen es crear una burbuja.
+    - Impacto social : la total confianza en el chatbot genera problemas en entornos profesionales que les hacen preguntas que no pueden fallar, como ejemplo
+    el CEO de Subnautica 2 al que ChatGPT  le diseño una estrategia legal con la que tuvo pagar 250M $.
+    
+
