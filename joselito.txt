@@ -5,4 +5,112 @@
 
 Descripción clara de la actividad elegida
 
--   
+-   🧠 Análisis de la actividad
+📌 Descripción de la actividad
+
+La actividad trata sobre el uso de herramientas de Inteligencia Artificial para ayudar en tareas como buscar información, resolver dudas o redactar textos. En este caso, la IA se utiliza como una herramienta de apoyo que facilita el trabajo y permite organizar mejor las ideas.
+
+También es importante tener en cuenta que la IA no solo se usa en el ámbito académico, sino que muchas personas la utilizan de forma profesional (por ejemplo, en empresas o en trabajos relacionados con tecnología o contenido digital). Aun así, en este caso nos centramos sobre todo en su uso para estudiar.
+
+El punto clave de esta actividad no es solo usar la IA, sino hacerlo de forma responsable, es decir, entendiendo lo que genera, revisándolo y evitando copiar directamente sin aprender.
+
+
+
+* Contexto (personal, académico o profesional).
+
+
+📍 Contexto
+
+El uso de la IA en esta actividad se sitúa principalmente en un contexto académico, ya que su objetivo es ayudar en el aprendizaje. Puede servir para entender mejor los temas, organizar trabajos o estudiar de forma más eficiente.
+
+Sin embargo, aunque el contexto principal es académico, también hay que tener en cuenta que la IA tiene un uso cada vez más importante en el ámbito profesional.
+
+En el entorno académico es especialmente importante usarla bien, porque si se utiliza mal (por ejemplo, copiando todo sin entenderlo), puede perjudicar el aprendizaje y hacer que el estudiante dependa demasiado de la herramienta.
+
+Por eso, la IA debe utilizarse como un apoyo, no como un sustituto del esfuerzo personal.
+
+
+
+### Propuestas sostenibles  JOSE
+  
+* ¿Qué mejoras propones?
+* ¿Cómo reducirías el impacto?
+* Deben ser **acciones reales y aplicables**.
+
+
+
+🌱 Propuestas sostenibles
+📌 ¿Qué mejoras propones?
+
+Una mejora clara sería cambiar la forma en la que se usa la IA en clase. En vez de usarla solo para hacer trabajos rápido, se debería usar para entender mejor los temas. Por ejemplo, usarla para que te explique algo que no has entendido o para ver ejemplos.
+
+También estaría bien que los profesores expliquen cómo usar la IA correctamente, porque ahora mucha gente la usa sin saber realmente si está bien o mal.
+
+Otra mejora sería que los trabajos sean más personales (opiniones, ejemplos propios, experiencias…), así es más difícil copiar directamente de la IA y se nota quién ha trabajado de verdad.
+
+📉 ¿Cómo reducirías el impacto?
+
+Para reducir el impacto negativo, lo principal es no depender demasiado de la IA. Es decir, usarla como ayuda, pero no para hacer todo el trabajo.
+
+También es importante revisar lo que te da, porque a veces se equivoca o se inventa cosas. Si no lo revisas, puedes entregar algo incorrecto sin darte cuenta.
+
+Y sobre todo, intentar primero hacer las cosas por tu cuenta y usar la IA solo cuando te atasques o para mejorar lo que ya tienes.
+
+✅ Acciones reales y aplicables
+Intentar hacer el ejercicio primero sin IA.
+Usar la IA solo para dudas o para mejorar lo que ya has hecho.
+Leer y entender siempre lo que genera antes de usarlo.
+Cambiar el contenido con tus propias palabras.
+No usar la IA en trabajos donde no esté permitido.
+Hacer trabajos más personales (opinión, ejemplos propios…).
+
+
+### Uso de IA (obligatorio)  JOSE
+
+Debéis explicar:
+
+* Qué herramientas habéis utilizado (ChatGPT, Copilot, etc.).
+* Para qué las habéis usado.
+* Si habéis usado varias, por qué.
+* Qué os ha aportado.
+* 3 o 4 prompts que hayáis utilizado a modo de ejemplo.
+
+
+🤖 Uso de IA
+📌 Herramientas utilizadas
+
+Para realizar esta actividad se ha utilizado principalmente ChatGPT como herramienta de apoyo. Es una IA que permite generar textos, resolver dudas y ayudar a estructurar ideas.
+
+📌 ¿Para qué se ha utilizado?
+
+Se ha utilizado para varias cosas:
+
+Organizar las ideas del trabajo.
+Redactar algunos apartados de forma más clara.
+Mejorar la expresión y corregir el texto.
+Resolver dudas sobre el uso responsable de la IA.
+
+No se ha usado para copiar directamente, sino como una ayuda para entender mejor y mejorar el contenido.
+
+📌 Uso de varias herramientas (si aplica)
+
+En este caso se ha utilizado principalmente ChatGPT, ya que es suficiente para este tipo de trabajo. No ha sido necesario usar otras herramientas porque cumple bien la función de ayudar a redactar y estructurar la información.
+
+📌 ¿Qué ha aportado?
+
+La IA ha ayudado a:
+
+Ahorrar tiempo a la hora de organizar el trabajo.
+Tener una base sobre la que trabajar.
+Expresar mejor algunas ideas.
+Ver el tema desde diferentes enfoques.
+
+Aun así, ha sido necesario revisar y adaptar la información para entenderla y hacerla más personal.
+
+📌 Ejemplos de prompts utilizados
+
+Algunos ejemplos de instrucciones (prompts) que se han usado son:
+
+“Explícame el uso responsable de la inteligencia artificial de forma sencilla.”
+“Haz un análisis del impacto de la IA en el ámbito académico.”
+“Dame ejemplos de buenas prácticas en el uso de la IA.”
