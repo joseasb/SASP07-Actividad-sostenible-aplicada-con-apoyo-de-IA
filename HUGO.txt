@@ -8,4 +8,52 @@
     - Impacto social : la total confianza en el chatbot genera problemas en entornos profesionales que les hacen preguntas que no pueden fallar, como ejemplo
     el CEO de Subnautica 2 al que ChatGPT  le diseño una estrategia legal con la que tuvo pagar 250M $.
     
+- ¿Qué haría como desarrollador?
+Elegiría el modelo justo: No usaría un mazo para matar una mosca. Si una tarea se resuelve con un modelo pequeño (como Llama 3 de 8B o Phi-3), no llamaría a GPT-4. Es más rápido, más barato y consume una fracción de la energía.
 
+Priorizaría el RAG sobre el reentrenamiento: En lugar de gastar semanas de cómputo reentrenando un modelo (huella de carbono masiva), usaría Generación Aumentada por Recuperación (RAG). Es mucho más eficiente "darle un libro" al modelo que intentar que se lo aprenda de memoria.
+
+Optimizaría el "Clean Code": Me aseguraría de que mi código sea eficiente. Una consulta mal estructurada que obliga a la IA a generar 500 palabras cuando solo necesitabas 10 es, literalmente, desperdiciar energía y agua de enfriamiento.
+
+Movería mis procesos: Si tuviera que ejecutar procesos pesados, lo haría en regiones de la nube (como las de los países nórdicos o Canadá) que tienen redes eléctricas mucho más limpias que otras basadas en carbón.
+
+
+Reflexion personal 
+Si me pongo en mis propios zapatos como profesional del sector, dejando de lado los algoritmos por un momento, esta es mi visión real de lo que significa trabajar con estas herramientas:
+1. Ventajas: Mi "superpoder" diario
+
+    Adiós al trabajo basura: Me quita de encima el boilerplate (código repetitivo) y las tareas monótonas que antes me llevaban horas. Ahora puedo dedicar mi energía a la arquitectura y a resolver problemas reales, no a buscar una coma mal puesta.
+
+    Aprender a velocidad de vértigo: Es como tener al colega más listo de la oficina sentado al lado 24/7. Si no entiendo una librería nueva, me la explica en tres párrafos.
+
+    El fin del "bloqueo creativo": Ya no existe el miedo al archivo vacío. Lanzo una idea, la IA me devuelve un borrador y de ahí ya empiezo a construir yo.
+
+2. Inconvenientes: Lo que me quita el sueño
+
+    Como profesional consciente, sé que cada vez que optimizo un proceso con IA, estoy generando una huella de carbono masiva. No es un recurso "limpio" aunque no veamos el humo.
+
+    El riesgo de volverme un "programador de copiar y pegar": Si me descuido, puedo perder mi capacidad crítica. No quiero ser alguien que solo sabe escribir prompts, sino alguien que entiende por qué el código funciona.
+
+    La burbuja de la comodidad: Es fácil volverse perezoso. Si la IA siempre me da la respuesta masticada, dejo de entrenar el músculo de la investigación profunda.
+
+3. Mi conclusión personal
+
+Para mí, la IA es como un motor de alto rendimiento: es increíblemente potente, pero consume muchísimo combustible. Mi responsabilidad como profesional TIC no es solo saber "pisar el acelerador", sino saber cuándo es mejor ir a pie para ahorrar energía y cuándo usar el motor de forma quirúrgica.
+
+No quiero que la tecnología me sustituya, quiero que me eleve. Al final, lo que nos hace valiosos no es generar código rápido, sino saber por qué estamos construyendo lo que estamos construyendo y qué impacto (bueno y malo) tiene en el mundo. Prefiero ser un artesano digital que usa herramientas avanzadas, en lugar de un operario que solo aprieta botones sin pensar
+
+¿Qué IA hemos utilizado?
+He utilizado Gemini, ChatGPT y NoteBookLM
+
+¿Por y para qué he usado cada una?
+Gemini - IA generativa para generacion del contenido de texto, la uso porque al menos en el modelo rápido ni siquiera me ha dado un aviso por llegar a su límite de uso, además de tener una buena potencia.
+
+ChatGPT - de nuevo IA generativa, uno de nosotros tiene plan GO lo que nos resulta más permisivo a la hora de usar modelos más potentes por más tiempo.
+
+NoteBookLM  - para la creación de la presentación, de nuevo gratuita y práctica.
+
+Algún prompt que hemos usado :
+
+No hemos necesitado prompts nada elaborados para hacer nuestra presentación.
+
+" toneladas de CO2 que genera chatgpt mensualmente y a que igualarlo, contrasta los datos "
